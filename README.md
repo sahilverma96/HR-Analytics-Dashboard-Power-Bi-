@@ -30,9 +30,14 @@ This includes trendlines and target lines to help HR managers track progress tow
 ## Results
 Here is a visualization of the analysis results:
 
-![Analysis Results](PK)
+![Analysis Results](images/dashboard.png)
 
 For an interactive version, check out [this link](https://example.com/interactive-visualization).
+
+## Download the Tableau Dashboard
+You can download the Tableau dashboard used in this project by clicking the link below:
+
+[Download hr_analytics_dashboard.pbit](hr_analytics_dashboard.pbit)
 
 ## Contributing
 Feel free to open issues or submit pull requests.
