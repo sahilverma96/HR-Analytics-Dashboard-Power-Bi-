@@ -30,7 +30,7 @@ This includes trendlines and target lines to help HR managers track progress tow
 ## Results
 Here is a visualization of the analysis results:
 
-![Analysis Results](path/to/your/image.png)
+![Analysis Results](PK)
 
 For an interactive version, check out [this link](https://example.com/interactive-visualization).
 
