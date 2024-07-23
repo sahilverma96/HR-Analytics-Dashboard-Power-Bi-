@@ -1,4 +1,4 @@
-# HR Analytics: A Complete Employee Data Analysis Project using Power Bi Dashboard
+# HR Analytics: A Complete Employee Data Analysis Project using Power BI Dashboard
 
 ## About the Project
 This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
