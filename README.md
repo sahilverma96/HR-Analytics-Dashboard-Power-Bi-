@@ -32,7 +32,7 @@ Here is a visualization of the analysis results:
 
 ![Analysis Results](images/dashboard.png)
 
-For an interactive version, check out [this link](https://example.com/interactive-visualization).
+For an interactive version, check out [this link]([https://example.com/interactive-visualization](https://github.com/sahilverma96/HR-Analytics-Dashboard-Power-Bi-/blob/main/HR_Visual.PNG)).
 
 ## Download the Tableau Dashboard
 You can download the Tableau dashboard used in this project by clicking the link below:
