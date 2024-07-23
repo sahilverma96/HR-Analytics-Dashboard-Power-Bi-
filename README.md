@@ -7,7 +7,7 @@ This includes trendlines and target lines to help HR managers track progress tow
 
 ## Technologies Used
 - **Advanced Excel** 👨‍💻
-- **Tableau** 📊
+- **Power BI** 📊
 - **Statistics** 📜
 
 ## Steps Overview
@@ -34,7 +34,7 @@ Here is a visualization of the analysis results:
 
 For an interactive version, check out [this link]([https://example.com/interactive-visualization](https://github.com/sahilverma96/HR-Analytics-Dashboard-Power-Bi-/blob/main/HR_Visual.PNG)).
 
-## Download the Tableau Dashboard
+## Download the Power BI Dashboard
 You can download the Tableau dashboard used in this project by clicking the link below:
 
 [Download hr_analytics_dashboard.pbit](hr_analytics_dashboard.pbit)
